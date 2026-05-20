@@ -1,0 +1,11 @@
+# Modeller (Boyutları büyük olduğu için GitHub'a yüklenmemeli)
+*.pt
+
+# Videolar ve Çıktılar
+*.mp4
+tespit_ilen_plakalar.txt
+
+# Python Önbellek Dosyaları
+__pycache__/
+.venv/
+venv/
